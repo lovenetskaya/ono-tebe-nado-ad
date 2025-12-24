@@ -1,1 +1,1 @@
-https://github.com/lovenetskaya/ono-tebe-nado-adgit
+https://github.com/lovenetskaya/ono-tebe-nado-ad
