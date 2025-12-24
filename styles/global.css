@@ -1,3 +1,4 @@
+
 *,
 *::before,
 *::after {
@@ -5,8 +6,8 @@
 }
 
 body {
-  width: 1100px;
-  margin: 0 auto;
+  min-width: 1100px;
+  margin: 0;
   font-family: Raleway, sans-serif;
 }
 
@@ -33,6 +34,6 @@ img {
   width: 100%;
 }
 
-button {
-  font: inherit;
-}
+
+/** {
+  border: 1px solid #f00; }*/
